@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap demo</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+      rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
+      crossorigin="anonymous">
+    <link type="text/css" rel="stylesheet" href="css/style.css">
+  </head>
+  <body>
+    <div class="container">
+      <p> </p>
+      <div class="row">
+        <div class="col-md">
+          <div class="row">
+            <div class="col-md"> </div>
+          </div>
+          <div class="row">
+            <div class="col-md-4">
+              <p> </p>
+              <br>
+              <h1> <span style="font-family: OCR A;">RESUME</span></h1>
+              <h3><img alt="1" src="images/LINE_ALBUM_2102023_%E0%B9%92%E0%B9%93%E0%B9%91%E0%B9%90%E0%B9%90%E0%B9%93_113.jpg"
+                  class="rounded" style="width: 218px; height: 292px;"></h3>
+              <h1> </h1>
+              <p> </p>
+            </div>
+            <div class="col-md">
+              <div class="row">
+                <div class="col-md"> </div>
+              </div>
+              <h1><br>
+                <span style="font-family: OCR A;"></span></h1>
+              <h1><br>
+              </h1>
+              <h1><br>
+              </h1>
+              <h1><span style="font-family: OCR A;">PIMPITCHA </span></h1>
+              <span style="font-family: OCR A;"> </span>
+              <h1><span style="font-family: OCR A;">PHROMLUESEE</span></h1>
+              <p><br>
+              </p>
+              <h1><span style="font-family: Agency FB;">Social Media
+                  Administrator</span></h1>
+              <p></p>
+              <h3></h3>
+              <h3></h3>
+            </div>
+            <div class="col-md-4">
+              <div class="row">
+                <div class="col-md-12"> </div>
+              </div>
+              <div class="row">
+                <div class="col-md-12"> </div>
+              </div>
+            </div>
+            <div class="col-md-4"><br>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-12">
+          <div class="row">
+            <div class="col-md-8"> </div>
+            <div class="col-md-4"> </div>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-12">
+          <div class="row">
+            <div class="col-md-12">
+              <div class="row">
+                <div class="col-md-4"> </div>
+                <div class="col-md-4"> </div>
+                <div class="col-md-4"> </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-12"> </div>
+      </div>
+      <div class="row">
+        <div class="col-md-12">
+          <div class="row">
+            <div class="col-md-12">
+              <div class="row">
+                <div class="col-md">
+                  <div class="row">
+                    <div class="col-md">
+                      <h1><span style="font-family: OCR A;">ABOUT ME</span> </h1>
+                      <p> </p>
+                      <h5>ชื่อ พิมพิชชา พรมฤาษี</h5>
+                      <h5> </h5>
+                      <h5>ชื่อเล่น ป๋อมแป๋ม</h5>
+                      <h5> </h5>
+                      <h5><span class="OYPEnA text-decoration-none text-strikethrough-none"
+                          style="color: rgb(0, 0, 0); font-weight: 400; font-style: normal;">กิจกรรม
+                          ที่ชอบทำ : ชอบฟังเพลง <br>
+                        </span></h5>
+                      <h5> </h5>
+                      <h5><span class="OYPEnA text-decoration-none text-strikethrough-none"
+                          style="color: rgb(0, 0, 0); font-weight: 400; font-style: normal;">อ่าน
+                          นิยาย เล่นกับแมวเป็นงานอดิเรก </span></h5>
+                      <h5> </h5>
+                      <h5 class="cvGsUA direction-ltr align-center para-style-body"
+                        style="  color: color: rgb(0, 0, 0); font-weight: 400; font-style: normal;"><span
+                          class="OYPEnA text-decoration-none text-strikethrough-none"
+                          style="color: rgb(0, 0, 0); font-weight: 400; font-style: normal;">อาชีพ
+                          ที่ใฝ่ฝัน :เปิดร้านคาเฟ่แมวน่ารักๆ </span></h5>
+                      <h5> </h5>
+                      <h5> และทำเบเกอรี่ขาย </h5>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md">
+                  <div class="col-md">
+                    <div class="row">
+                      <h1> <span style="font-family: OCR A;">SKILLS </span></h1>
+                    </div>
+                  </div>
+                  <div class="row">
+                    <div class="col-md"> <img alt="social" src="icon/social-media.png"
+                        style="width: 84px; height: 84px;"><span class="OYPEnA text-decoration-none text-strikethrough-none"
+                        style="color: rgb(74, 76, 77); font-weight: 600; font-style: normal;">
+                        Social media skil</span> </div>
+                    <div class="col-md"> <img alt="audio" src="icon/audio.png"
+                        style="width: 80px; height: 80px;"><span class="OYPEnA text-decoration-none text-strikethrough-none"
+                        style="color: rgb(74, 76, 77); font-weight: 600; font-style: normal;">&nbsp;
+                        Copywriting and editing skill</span></div>
+                    <span class="OYPEnA text-decoration-none text-strikethrough-none"
+                      style="color: rgb(74, 76, 77); font-weight: 600; font-style: normal;"></span>
+                    <div class="col-md"><br>
+                    </div>
+                    <div class="col-md"><br>
+                    </div>
+                    <div class="col-md"><br>
+                    </div>
+                    <div class="col-md"><br>
+                    </div>
+                  </div>
+                  <div class="row">
+                    <div class="col-md"> <img alt="seo" src="icon/package.png"
+                        style="width: 90px; height: 90px;"></div>
+                    <div class="col-md"><span class="OYPEnA text-decoration-none text-strikethrough-none"
+                        style="color: rgb(74, 76, 77); font-weight: 600; font-style: normal;">Algorithms
+                        and search engine optimisation</span></div>
+                    <div class="col-md"><span class="OYPEnA text-decoration-none text-strikethrough-none"
+                        style="color: rgb(74, 76, 77); font-weight: 600; font-style: normal;"><br>
+                      </span> </div>
+                    <div class="col-md-6"> <img alt="leader" src="icon/leader.png"
+                        style="width: 105px; height: 105px;"><span class="OYPEnA text-decoration-none text-strikethrough-none"
+                        style="color: rgb(74, 76, 77); font-weight: 600; font-style: normal;">Good
+                        communication and leadership</span></div>
+                    <div class="col-md-6"><br>
+                    </div>
+                    <div class="col-md-6"><br>
+                    </div>
+                    <div class="col-md-6"><br>
+                    </div>
+                    <div class="col-md-6"><br>
+                    </div>
+                    <div class="col-md-6"><br>
+                    </div>
+                    <div class="col-md"><br>
+                    </div>
+                    <div class="col-md"><br>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <p> </p>
+      <div class="row">
+        <div class="col-md">
+          <div class="row">
+            <div class="col-md-4">
+              <h1> <span style="font-family: OCR A;">EDUCATION</span> </h1>
+              <h1> </h1>
+              <p></p>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md">
+              <div class="row">
+                <div class="col-md">
+                  <div class="row">
+                    <div class="col-md">
+                      <h4> ( 2016-2021 )</h4>
+                      <h4> </h4>
+                      <h4> Princess Sirindhorn's College </h4>
+                      <div class="row">
+                        <p> </p>
+                      </div>
+                      <h4> ( 2021-2024 )</h4>
+                      <h4> Faculty of Arts </h4>
+                      <h4> (Library and Information Science) </h4>
+                      <h4> Silpakorn University </h4>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-12"> <br>
+                </div>
+              </div>
+              <p> </p>
+              <div class="row">
+                <div class="col-md-12"> <br>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md">
+          <div class="row">
+            <div class="col-md">
+              <h1> <span style="font-family: OCR A;">EXPERIENCE</span> </h1>
+            </div>
+          </div>
+          <div class="col-md">
+            <div class="row">
+              <div class="col-md">
+                <h4> Social Media Administrator (2021-now)</h4>
+                <h4> </h4>
+                <h4>Hiawat Pang Thor Thong</h4>
+                <div class="row">
+                  <p> </p>
+                </div>
+                <h4> Develop campaigns across channels</h4>
+                <h4> Monitor hashtags and trends </h4>
+                <h4> Report on analytics </h4>
+                <h4> Interact with customers and prospects </h4>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <h1><span style="font-family: OCR A;">CONTACT</span></h1>
+      <p> </p>
+      <div class="row">
+        <div class="col-md">
+          <div class="row">
+            <div class="col-md"> <img alt="2" src="icon/call_phone_icon_255829.png"
+                style="width: 54px; height: 54px;"></div>
+            <div class="col-md">&nbsp; <br>
+              <h5>++66832691602 </h5>
+            </div>
+            <div class="col-md"> </div>
+          </div>
+          <p> </p>
+          <div class="row">
+            <div class="col-md"> <img alt="3" src="icon/envelope_mail_icon_255826.png"
+                style="width: 60px; height: 60px;">&nbsp; <br>
+              <h5>PHROMLUSEE_P@SILPAKORN.EDU</h5>
+              <h6> </h6>
+              <h6> </h6>
+              <h6> </h6>
+              <h6> </h6>
+              <h6> </h6>
+              <div class="row">
+                <div class="col-md"> </div>
+              </div>
+            </div>
+          </div>
+          <p> </p>
+          <div class="row">
+            <div class="col-md"> <img alt="4" src="icon/pin_and_maps_point_location_pointer_map_interface_signs_placeholder_icon_256464.png"
+                style="width: 61px; height: 61px;"> &nbsp;
+              <h5>99/189 Siwarat10 Soi.15&nbsp; <span class="OYPEnA text-decoration-none text-strikethrough-none"
+                  style="color: rgb(0, 0, 0); font-weight: 400; font-style: normal;">Bang
+                  Khaem Subdistrict, Mueang District, Nakhon Pathom Province</span>&nbsp;
+                73000</h5>
+            </div>
+          </div>
+        </div>
+        <div class="col-md">
+          <div class="row">
+            <div class="col-md">
+              <h1> <span style="font-family: OCR A;">LANGUAGES</span> </h1>
+            </div>
+          </div>
+          <p> </p>
+          <div class="col-md">
+            <div class="row">
+              <div class="col-md">
+                <h4>THAI</h4>
+                <h4> </h4>
+                <h4>Hiawat Pang Thor Thong</h4>
+                <div class="row">
+                  <p> </p>
+                </div>
+                <h4>ENGLISH</h4>
+                <h4> Monitor hashtags and trends </h4>
+                <h4>LAOS</h4>
+                <h4> Interact with customers and prospects </h4>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <h3><br>
+      </h3>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+crossorigin="anonymous"></script>
+  </body>
+</html>
